@@ -1,0 +1,29 @@
+.logo{
+    font-size: 3rem;
+    font-weight: bold;
+    background: $linear-gradient;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-family: 'Bayon', sans-serif;
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: bold;
+    background: $linear-gradient;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-align: center;
+}
+
+.p-title{
+    text-align: center;
+    color: $text-dark-theme;
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+}
