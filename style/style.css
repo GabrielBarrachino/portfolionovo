@@ -461,7 +461,7 @@ header.fixed-menu {
 @media (max-width: 800px) {
   .s-sobre {
     padding-top: 8rem;
-    margin-top: -10rem;
+    margin-top: 10rem;
   }
   .s-sobre .container .main-sobre .image {
     display: none;
